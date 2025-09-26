@@ -18,7 +18,7 @@ int main(void) {
     --a;
     printf("a = %d\n", a);
 
-   /*a==a is gonna always be true so ans gonna be 1*/
+   /*a==a is gonna always be true so ans going to be 1*/
     a = (a == a);
     printf("a = %d\n", a);
 

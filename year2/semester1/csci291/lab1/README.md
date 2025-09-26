@@ -24,16 +24,15 @@ It covered writing, compiling, running, and formatting C programs.
 - Reverse conversion, from Celsius to Fahrenheit.  
 - File: [cels_to_fahr.c](cels_to_fahr.c)
 
-### Task 5 – Basic I/O + Expressions
+### Task 5 – Basic I/O and Expressions
 - (a) Ask for 2 integers → print them and their sum.  
+  - [integers_sum.c](basic_io/integers_sum.c)  
 - (b) Ask for 2 floats → print them and their product.  
+  - [floats_product.c](basic_io/floats_product.c)  
 - (c) Ask for a character → print it twice.  
-- (d) Variable experiments with `a = -a;`, `a -= a;`, `--a;`, `a = (a == a);`.  
-- Files:  
-  - [integers_sum.c](integers_sum.c)  
-  - [floats_product.c](floats_product.c)  
-  - [char_twice.c](char_twice.c)  
-  - [var_expressions.c](var_expressions.c)
+  - [char_twice.c](basic_io/char_twice.c)  
+- (d) Try expressions with `a = -a;`, `a -= a;`, `--a;`, `a = (a==a);`.  
+  - [var_expressions.c](basic_io/var_expressions.c)
 
 ---
 
